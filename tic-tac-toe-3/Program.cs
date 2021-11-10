@@ -9,7 +9,7 @@ namespace tic_tac_toe_3
             Console.WriteLine("Tomislav ima 0 pobjeda i 0 poraza!");
             Console.WriteLine("Mislav ima 0 pobjeda i 0 poraza!");
 
-            Console.WriteLine(" | |x");
+            Console.WriteLine("x| |x");
             Console.WriteLine("0|0|0");
             Console.WriteLine(" | |x");
         }
