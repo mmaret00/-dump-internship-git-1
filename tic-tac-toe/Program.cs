@@ -11,7 +11,7 @@ namespace tic_tac_toe
 
             Console.WriteLine(" | | ");
             Console.WriteLine(" | | ");
-            Console.WriteLine(" | | ");
+            Console.WriteLine(" |x| ");
         }
     }
 }
